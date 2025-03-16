@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "tarkov-vision",
   "private": true,
   "scripts": {
     "build": "turbo run build",
