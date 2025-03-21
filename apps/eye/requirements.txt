@@ -1,0 +1,9 @@
+fastapi
+pydantic
+numpy
+ultralytics
+pillow
+imagehash
+easyocr
+python-Levenshtein
+python-multipart
