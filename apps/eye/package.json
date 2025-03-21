@@ -1,0 +1,8 @@
+{
+  "name": "eye",
+  "private": true,
+  "scripts": {
+    "dev": "fastapi dev main.py",
+    "start": "uvicorn main:app --host 0.0.0.0 --port 8000"
+  }
+}

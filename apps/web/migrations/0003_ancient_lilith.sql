@@ -1,0 +1,1 @@
+ALTER TABLE `detection_runs` RENAME COLUMN "image_path" TO "image_url";
